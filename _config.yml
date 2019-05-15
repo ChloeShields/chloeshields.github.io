@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Chloe Shields"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profilePic.jpg"
   bio    : "I like brains. Computers are fun too."
   links:
     - label: "GitHub"
