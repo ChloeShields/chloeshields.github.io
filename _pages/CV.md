@@ -7,7 +7,7 @@ title: "Curriculum Vitae"
 
 [Email](mailto:chshield@ucsd.edu)
 
-Chloe Shields  
+Chloe Shields/
 University of California, San Diego  
 Department of Psychology  
 McGill Hall - 0109  
