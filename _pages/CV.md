@@ -7,12 +7,12 @@ title: "Curriculum Vitae"
 
 [Email](mailto:chshield@ucsd.edu)
 
-Chloe Shields 
-University of California, San Diego 
-Department of Psychology 
-McGill Hall - 0109 
-9500 Gilman Dr. 
-La Jolla, CA 92093 
+Chloe Shields  
+University of California, San Diego  
+Department of Psychology  
+McGill Hall - 0109  
+9500 Gilman Dr.  
+La Jolla, CA 92093  
 
 ## Education
 
