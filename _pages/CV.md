@@ -5,10 +5,8 @@ title: "Curriculum Vitae"
 
 ## Contact Information
 
-Email: [chshield@ucsd.edu](mailto:chshield@ucsd.edu)
+[chshield@ucsd.edu](mailto:chshield@ucsd.edu)
 
-Mailing Address: 
- 
 Chloe Shields  
 University of California, San Diego  
 Department of Psychology  
