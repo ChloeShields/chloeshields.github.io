@@ -16,6 +16,9 @@ La Jolla, CA 92093
 
 ## Education
 
+Ph.D. program in Experimental Psychology (ongoing)  
+University of California San Diego, San Diego, CA  
+
 M.A. in Psychology, 2019  
 University of California San Diego, San Diego, CA  
 
