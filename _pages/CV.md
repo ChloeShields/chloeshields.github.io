@@ -8,18 +8,18 @@ title: "Curriculum Vitae"
 [Email](mailto:chshield@ucsd.edu)
 
 Chloe Shields/
-University of California, San Diego  
-Department of Psychology  
-McGill Hall - 0109  
-9500 Gilman Dr.  
-La Jolla, CA 92093  
+University of California, San Diego/
+Department of Psychology/
+McGill Hall - 0109/
+9500 Gilman Dr./
+La Jolla, CA 92093/
 
 ## Education
 
-M.A. in Psychology, 2019
+M.A. in Psychology, 2019/
 University of California San Diego, San Diego, CA
 
-B.A. in Psychology (Summa Cum Laude), 2015
+B.A. in Psychology (Summa Cum Laude), 2015/
 Linfield College, McMinnville, OR
 
 ## Publications 
@@ -44,24 +44,24 @@ Linfield College, McMinnville, OR
 
 ## Honors/Awards
 
-2016: Travel award to attend the 46th annual meeting of the Society for Neuroscience (Linfield College)
-2015: Ploog-Tieleman Award for Outstanding Student Research (Department of Psychology, Linfield College, $500)
-2015: Travel award to attend the 27th annual meeting of the Association for Psychological Science (Linfield College)
-2014-2015: Officer in Psi Chi Psychology Honors Society (Linfield College)
-2014: Travel award to attend the 10th biennial meeting of the Society for the Psychological Study of Social Issues (Linfield College)
-2012-2015: Dean's List (Linfield College)
-2011: First Place in the Competitive Scholarship for Spanish (Linfield College, $15,000)
+2016: Travel award to attend the 46th annual meeting of the Society for Neuroscience (Linfield College)/
+2015: Ploog-Tieleman Award for Outstanding Student Research (Department of Psychology, Linfield College, $500)/
+2015: Travel award to attend the 27th annual meeting of the Association for Psychological Science (Linfield College)/
+2014-2015: Officer in Psi Chi Psychology Honors Society (Linfield College)/
+2014: Travel award to attend the 10th biennial meeting of the Society for the Psychological Study of Social Issues (Linfield College)/
+2012-2015: Dean's List (Linfield College)/
+2011: First Place in the Competitive Scholarship for Spanish (Linfield College, $15,000)/
 
 ## Research Experience
 
-2017-Present: Graduate Student, Christina Gremel Lab, Department of Psychology, University of California San Diego
-2015-2017: Research Assistant, Chris Cunningham Lab, Department of Behavioral Neuroscience, Oregon Health and Science University
-2014-2015: Honors Thesis in Psychology, Linfield College
-2014-2015: Research Assistant, Peer and Faculty Research, Linfield College
+2017-Present: Graduate Student, Christina Gremel Lab, Department of Psychology, University of California San Diego/
+2015-2017: Research Assistant, Chris Cunningham Lab, Department of Behavioral Neuroscience, Oregon Health and Science University/
+2014-2015: Honors Thesis in Psychology, Linfield College/
+2014-2015: Research Assistant, Peer and Faculty Research, Linfield College/
 
 ## Other Work
 
-2015: Psychology Department Tutor, Linfield College
-2014-2015: Animal Care Technician, Psychology Department Laboratory, Linfield College
-2014-2015: Department Assistant, Psychology Department, Linfield College
-2014-2015: Family Support Team Intern, Juliette's House Child Abuse Assessment Center
+2015: Psychology Department Tutor, Linfield College/
+2014-2015: Animal Care Technician, Psychology Department Laboratory, Linfield College/
+2014-2015: Department Assistant, Psychology Department, Linfield College/
+2014-2015: Family Support Team Intern, Juliette's House Child Abuse Assessment Center/
