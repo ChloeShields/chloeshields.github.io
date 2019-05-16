@@ -2,7 +2,7 @@
 permalink: /
 title: "Welcome!"
 header:
-    imgage: /assets/images/largerPic.jpg
+    image: /assets/images/largerPic.jpg
     caption: "It's me!"
 ---
 
