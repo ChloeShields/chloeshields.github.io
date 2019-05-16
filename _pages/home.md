@@ -1,8 +1,9 @@
 ---
 permalink: /
 title: "Welcome!"
+header:
+    imgage: /assets/images/largerPic.jpg
+    caption: "It's me!"
 ---
-
-![it's me!](/assets/images/largerPic.jpg)
 
 My name is Chloe Shields. I like brains.
