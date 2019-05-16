@@ -1,7 +1,9 @@
 ---
 layout: home
 permalink: /
-title: "Hey there"
+title: "Home"
+header:
+    image: /assets/images/largerPic.jpg
 ---
 
-# ksdjfssdfkj
+# Welcome!
