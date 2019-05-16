@@ -3,9 +3,9 @@ layout: home
 permalink: /
 title: "Home"
 author_profile: true
-header:
-    image: /assets/images/largerPic.jpg
 ---
+
+![](/assets/images/largerPic.jpg)
 
 # Hello there!
 
