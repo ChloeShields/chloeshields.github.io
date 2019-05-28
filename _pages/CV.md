@@ -47,11 +47,12 @@ Linfield College, McMinnville, OR
 
 ## Honors/Awards
 
-- 2016: Travel award to attend the 46th annual meeting of the Society for Neuroscience (Linfield College)
+- 2017: First place, Annual Poster Competition, Department of Psychology (Linfield College)
+- 2016: Travel award to attend the 46th annual meeting of the Society for Neuroscience (Linfield College, $850)
 - 2015: Ploog-Tieleman Award for Outstanding Student Research (Department of Psychology, Linfield College, $500)
-- 2015: Travel award to attend the 27th annual meeting of the Association for Psychological Science (Linfield College)
+- 2015: Travel award to attend the 27th annual meeting of the Association for Psychological Science (Linfield College, $800)
 - 2014-2015: Officer in Psi Chi Psychology Honors Society (Linfield College)
-- 2014: Travel award to attend the 10th biennial meeting of the Society for the Psychological Study of Social Issues (Linfield College)
+- 2014: Travel award to attend the 10th biennial meeting of the Society for the Psychological Study of Social Issues (Linfield College, $150)
 - 2012-2015: Dean's List (Linfield College)
 - 2011: First Place in the Competitive Scholarship for Spanish (Linfield College, $15,000)
 
