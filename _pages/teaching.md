@@ -7,11 +7,11 @@ title: "Teaching Portfolio"
 
 I have been a teaching assistant for the following classes:
 
-- **PSYC 4: General Psychology: Behavioral Foundations**
+- **PSYC4: General Psychology: Behavioral Foundations**
     + Gave lecture on tool use in animals
-- **PSYC 179: Drugs, Addiction, and Mental Disorders**
+- **PSYC179: Drugs, Addiction, and Mental Disorders**
     + Gave lecture on psychostimulants
-- **PSYC 154: Behavior Modification**
+- **PSYC154: Behavior Modification**
     + Gave lecture on punishment in operant conditioning
 - **PSYC124: Clinical Assessment and Treatment**
     + Gave lecture on intellectual and neuropsychological assessment
@@ -25,10 +25,12 @@ I have been a teaching assistant for the following classes:
 
 ## Student Evaluations
 
-- "She was wonderful! I asked her questions at review sessions, before and after class, and at office hours. She was very helpful, especially since sometimes the professor was taking a lot of questions so I asked her instead and I got my answer. She was also very enthusiastic about the topics we discussed and made it all seem really interesting and like a bunch of fun to learn."
-- "Chloe was great! She helped me out so much during this class. She was well versed in topics throughout the class and was great at instructing
+- "Chloe showed a genuine interest to teach and a real excitement about the material she presented. She showed up 100% for every review session and gave a clear presentation in class about intelligence testing. She provided useful examples to clarify ideas, encouraged student input, and organized slides in a clear manner. I really appreciated Chloe's participation in this course and learned a lot from her."
+- "Chloe was wonderful! She was very enthusiastic about the topics we discussed and made it all seem really interesting and like a bunch of fun to learn."
+- "Chloe was great! She helped me out so much during this class. She was well versed in topics throughout the class and was great at instructing."
 - "Fabulous TA! So patient and kind! Thank you for your help!"
 - "Really loved and understood your guest lectures very well!!"
+- "She is awesome!"
 
 ## Instructor Evaluations
 
