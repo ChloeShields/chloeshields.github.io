@@ -19,6 +19,7 @@ I have been a teaching assistant for the following classes:
 
 ## Other Experience
 
+- 2019: Took Introduction to College Teaching
 - 2016: Guest lecture for PSYC 384: Seminar in Social Psychology
 	+ Gave lecture on amygdala characteristics associated with altruism and psychopathy
 - 2015: Psychology Department Tutor (Linfield College)
