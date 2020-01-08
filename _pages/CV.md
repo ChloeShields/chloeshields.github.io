@@ -35,7 +35,8 @@ Linfield College, McMinnville, OR
 
 ## Posters
 
-9. Baltz, E. T., **Shields, C. N.**, Yalcinbas, E. A., Renteria, R., & Gremel, C. (2018). Effects of alcohol dependence on orbitofrontal cortex-controlled incentive learning. Poster presented at the 41st annual meeting of the Research Society on Alcoholism, San Diego, CA. 
+10. **Shields, C. N.**, Baltz, E. T., & Gremel, C. M. (2019). Effects of prior chronic alcohol exposure on subsequent incentive learning processes. Poster presented at the 42nd annual meeting of the Research Society on Alcoholism, Minneapolis, MN.
+9. Baltz, E. T., **Shields, C. N.**, Yalcinbas, E. A., Renteria, R., & Gremel, C. M. (2018). Effects of alcohol dependence on orbitofrontal cortex-controlled incentive learning. Poster presented at the 41st annual meeting of the Research Society on Alcoholism, San Diego, CA. 
 8. **Shields, C. N.** & Cunningham, C. L. (2018). Glutamate antagonist effects on choice extinction in ethanol-induced conditioned place preference. Poster presented at the 41st annual meeting of the Research Society on Alcoholism, San Diego, CA.
 7. **Shields, C. N.** & Cunningham, C. L. (2017). Effects of visual and spatial cues on tactile ethanol conditioned place preference in C57BL/6J mice. Poster presented at the 40th annual meeting of the Research Society on Alcoholism, Denver, CO.
 6. **Shields, C. N.**, Becker, S., & Bakner, L. (2016). Effects of early-adolescent, mid-adolescent, or adult stress on morphine conditioned place preference. Poster presented at the 46th annual meeting of the Society for Neuroscience, San Diego, CA. 

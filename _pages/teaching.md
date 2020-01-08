@@ -15,11 +15,13 @@ I have been a teaching assistant for the following classes:
     + Gave lecture on punishment in operant conditioning
 - **PSYC124: Clinical Assessment and Treatment**
     + Gave lecture on intellectual and neuropsychological assessment
-
+- **PSYC125: Clinical Neuropsychology**
+    + Gave lecture on executive function and frontal lobe dysfunction
 
 ## Other Experience
 
-- 2019: Took Introduction to College Teaching
+- 2019: Took Introduction to College Teaching ([diploma](/assets/files/teachingDiploma.pdf))
+    + 30 hr, seminar-style course on evidence-based teaching practices
 - 2016: Guest lecture for PSYC 384: Seminar in Social Psychology
 	+ Gave lecture on amygdala characteristics associated with altruism and psychopathy
 - 2015: Psychology Department Tutor (Linfield College)
