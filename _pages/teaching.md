@@ -22,7 +22,7 @@ I have been a teaching assistant for the following classes:
 
 - 2019: Took Introduction to College Teaching ([diploma](/assets/files/teachingDiploma.pdf))
     + 30 hr, seminar-style course on evidence-based teaching practices
-- 2016: Guest lecture for PSYC 384: Seminar in Social Psychology
+- 2016: Guest lecture for PSYC384: Seminar in Social Psychology (Linfield College)
 	+ Gave lecture on amygdala characteristics associated with altruism and psychopathy
 - 2015: Psychology Department Tutor (Linfield College)
 
