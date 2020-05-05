@@ -17,6 +17,8 @@ I have been a teaching assistant for the following classes:
     + Gave lecture on intellectual and neuropsychological assessment
 - **PSYC125: Clinical Neuropsychology**
     + Gave lecture on executive function and frontal lobe dysfunction
+- **PSYC100: Clinical Psychology**
+    + Gave lecture on anxiety, trauma, and obsessive-compulsive disorders
 
 ## Other Experience
 
@@ -36,5 +38,5 @@ I have been a teaching assistant for the following classes:
 - "She is awesome!"
 
 ## Instructor Evaluations
-
+- "Chloe is already a polished instructor and one of the best TAs I've ever had. Don't get me started on her lecture covering executive system function/dysfunction. One of the best - she was poised, relaxed, great pace, used humor. A natural, I was floored. I would have her back in my classroom at any time."
 - "Chloe is an outstanding GTA. Her knowledge, organization, and promptness really enhanced the class."
